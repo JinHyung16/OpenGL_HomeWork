@@ -1,0 +1,3 @@
+fbo 생성 과정에서
+
+glTexImage2D에서 GL_DEPTH_COMPONENT32F, GL_DEPTH_COMPONENT 가 누락되었습니다.
