@@ -7,3 +7,6 @@
 
 ## Rendering Theory Homework
 📅This is the assignment I did in the rendering theory class (2022/12/07 ~ 2021/12/16)  
+
+## Notice!!
+- Please do not copy or disseminate the code  
